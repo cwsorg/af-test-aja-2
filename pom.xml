@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.wso2.af</groupId>
   <artifactId>af-test-aja-2</artifactId>
-  <version>SNAPSHOT</version>
+  <version>1010101</version>
   <packaging>war</packaging>
   <name>af-test-aja-2 Maven Webapp</name>
   <url>http://maven.apache.org</url>
